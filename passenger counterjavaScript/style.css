@@ -1,0 +1,44 @@
+.inc-button{
+    border: 2px solid #B80000;
+    padding: 10px 40px;
+    border-radius: 13px;
+    color: #fff;
+    background-color: #B80000;
+}
+
+.save-button{
+    border: 2px solid #65B741;
+    padding: 10px 40px;
+    border-radius: 13px;
+    color: #fff;
+    background-color: #65B741;
+}
+
+.inc-counter{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    inset:0; 
+    position: absolute;
+    background-image: url(./images.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#peoplecount{
+    text-align: center;
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.color{
+    color: #fff;
+}
+.text-center{
+    text-align: center;
+}
